@@ -1,0 +1,1 @@
+javascript:(function()%7Blet%20element%20%3D%20document.getElementById('related')%3Belement.style.maxHeight%20%3D%20%22450px%22%3Belement.style.overflow%20%3D%20%22scroll%22%3B%5B...document.querySelectorAll('%23sections')%5D.forEach(x%20%3D%3E%20x.style.display%3D'none')%3B%7D)()%3B
